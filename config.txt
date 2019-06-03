@@ -1,6 +1,6 @@
 token=NTg0ODQxMTQ2MjYyNDg3MDY1.XPQ0ew.mf2Gip06X0G_WEjydLYQefwXacc
 
-owner=584906031495118869  
+owner=584906822633390099  
 prefix=H 
 game=Daisuke
 stayinchannel=true
