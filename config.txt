@@ -1,7 +1,7 @@
 token=NTg0ODQxMTQ2MjYyNDg3MDY1.XPQ0ew.mf2Gip06X0G_WEjydLYQefwXacc
 
-owner=584836505873285121  
+owner=566124014318387211  
 prefix=H 
-game=
+game=Daisuke
 stayinchannel=true
 songinstatus=true
